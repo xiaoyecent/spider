@@ -8,4 +8,6 @@ git clone https://github.com/xiaoyecent/spider
 python anquanke_spider.py or python anquanke_spider.py -o path/filename
 ```
 
-程序print在shell中  并写入文件 -o支持自定义写入文件位置 默认为写入当前目录下一个文件内
+程序print在shell中  并写入文件 
+
+-o支持自定义写入文件位置 默认为写入当前目录下一个文件内
