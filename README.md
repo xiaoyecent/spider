@@ -1,11 +1,15 @@
 # spider
 抓取 http://bobao.360.cn/news 新闻资讯 只抓了4页 有需要者可以改变for i in range(1,n)实现抓取n-1页
+
+git clone https://github.com/xiaoyecent/spider/
 ```
-usage:     
+Usage: anquanke_spider.py [options]
 
-git clone https://github.com/xiaoyecent/spider
+Options:
+  -h, --help            show this help message and exit
+  -o OUTFILE, --out=OUTFILE
+                        output file
 
-python anquanke_spider.py or python anquanke_spider.py -o path/filename
 ```
 
 程序print在shell中  并写入文件 
