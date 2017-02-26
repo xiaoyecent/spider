@@ -5,7 +5,7 @@ usage:
 
 git clone https://github.com/xiaoyecent/spider
 
-python anquanke_spider.py
+python anquanke_spider.py or python anquanke_spider.py -o path/filename
 ```
 
-程序print在shell中  可以写入文件或者html文件中
+程序print在shell中  并写入文件
